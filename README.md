@@ -32,7 +32,7 @@ The project was created by enhancing an existing Uber clone landing page with a 
 ### 1. Clone the Repository
 
 ```bash
-git clone [REPLACE_WITH_GITHUB_LINK]
+git clone https://github.com/amoschanda/umuntu-pachela
 cd umuntu-pachela
 ```
 
@@ -70,7 +70,7 @@ Open `index.html` in your web browser. The application will automatically connec
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]([REPLACE_WITH_GITHUB_LINK]/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/amoschanda/umuntu-pachela/issues).
 
 ## 📄 License
 
